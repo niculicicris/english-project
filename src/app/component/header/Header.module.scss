@@ -1,0 +1,36 @@
+@import "@/style/colors";
+
+.header, .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    gap: 2rem;
+    padding: 7rem;
+}
+
+.content {
+    gap: 1rem;
+}
+
+.title {
+    width: 720px;
+    font-size: 3rem;
+        
+    & span {
+        color: $gold-color;
+    }
+}
+
+.description {
+    width: 480px;
+    font-size: 1.25rem;
+    color: $dark-color-2;
+}
+
+.title, .description {
+    text-align: center;
+}

@@ -1,8 +1,13 @@
+import Header from "./component/header/Header";
+import Summary from "./component/summary/Summary";
 
-export default function Home() {
-  return (
-    <main>
-      <h1>Hello, world!</h1>
-    </main>
-  );
+function Home() {
+    return (
+        <>
+            <Header/>
+            <Summary/>
+        </>
+    );
 }
+
+export default Home;
