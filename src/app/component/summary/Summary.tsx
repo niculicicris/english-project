@@ -20,8 +20,9 @@ function Summary() {
             </div>
             <div className={styles.cards}>
                 <SummaryCard image="/icon/internet_banking.png" title="Internet Banking">
-                    Lorem Ipsum is simply dummy text of 
-                    the printing and typesetting industry.
+                    You will discover the working principles of internet banking, 
+                    what are the security measures that the companies should take and what security guidelines 
+                    should you follow for a safe experience on the web regarding online payments.
                 </SummaryCard>
                 <SummaryCard image="/icon/transactions.png" title="Transactions">
                     Lorem Ipsum is simply dummy text of 

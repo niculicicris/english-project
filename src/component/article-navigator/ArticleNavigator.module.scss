@@ -1,0 +1,19 @@
+@import "@/style/colors";
+
+.navigator {
+    padding: 1.5rem;
+    width: 832px;
+    display: flex;
+    justify-content: center;
+    gap: 24rem;
+    border-radius: 8px;
+    background-color: $light-color-2;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    width: 224px;
+}

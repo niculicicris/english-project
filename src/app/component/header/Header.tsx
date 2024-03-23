@@ -14,7 +14,7 @@ function Header() {
                     systems used by you
                 </p>
             </div>
-            <Button variant="transparent" redirect="/">
+            <Button variant="transparent" redirect="/article/internet-banking">
                 Explore Articles
             </Button>
         </header>
