@@ -7,6 +7,13 @@ function Example() {
                     title="Government Regulations   "    
                     author="Cristian-Florin Niculici" 
                     previousArticle="transactions">
+                <img
+                    style={{ borderRadius: "15px" }}
+                    src="/government-regulations/government-regulations.jpeg"
+                    height="300"
+                    width="864"
+                />
+
                 <h1>
                     Introduction
                 </h1>
