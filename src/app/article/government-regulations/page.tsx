@@ -52,14 +52,6 @@ function Example() {
                     financing activities. Compliance with AML and CTF regulations is crucial for ensuring the 
                     integrity and security of digital financial systems worldwide.
                 </p>
-                <p> 
-                    <strong>Sarbanes-Oxley Act (SOX)</strong>: The Sarbanes-Oxley Act (SOX) is a significant US federal 
-                    law aimed at enhancing corporate accountability and transparency in financial reporting. 
-                    While primarily focused on public companies, SOX includes provisions relevant to digital 
-                    financial systems, such as requirements for internal controls, financial disclosures, and 
-                    data integrity safeguards. Compliance with SOX is essential for organizations operating in the 
-                    US financial sector to ensure the security and integrity of their digital financial operations.
-                </p>
 
                 <h1>
                     Frameworks
