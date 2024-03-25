@@ -25,8 +25,9 @@ function Summary() {
                     should you follow for a safe experience on the web regarding online payments.
                 </SummaryCard>
                 <SummaryCard image="/icon/transactions.png" title="Transactions">
-                    Lorem Ipsum is simply dummy text of 
-                    the printing and typesetting industry.
+                    Discover essential security solutions for transactions, from secure checkout methods to 
+                    fraud prevention and regulatory compliance. Learn all you need to know to protect your 
+                    financial data and enhance online payment security.
                 </SummaryCard>
                 <SummaryCard image="/icon/government_regulations.png" title="Government Regulations">
                     As cyberattacks rapidly grow and evolve, it becomes imperative for governments to

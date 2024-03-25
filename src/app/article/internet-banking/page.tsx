@@ -100,7 +100,7 @@ function Example() {
                     </li>
                 </ul>
 
-                <h1>References:</h1>
+                <h1>References</h1>
                 <a href="https://www.kaspersky.com/resource-center/preemptive-safety/internet-banking-security-keep-fraudsters-away">
                     Internet banking security to keep fraudsters away
                 </a>

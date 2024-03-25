@@ -112,6 +112,9 @@ function Example() {
                 <a href="https://getoppos.com/cyber-security-standards-for-financial-industry/">
                     Cyber Security Standards for Financial Services 
                 </a>
+                <a href="https://buyscrapapp.com/solutions/">
+                    Image
+                </a>
             </Article>
         </section>
     );

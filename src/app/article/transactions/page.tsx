@@ -19,7 +19,7 @@ function Example() {
 
                 <h1>What is transaction security?</h1>
                 <p>Transaction  security encompasses the systems, processes, and measures utilized to safeguard financial transactions from unauthorized access, data breaches, and fraud. It is vital for both online and offline businesses, ensuring customer confidence, reducing financial losses, and complying with regulations.</p>
-                <h2>Why secure checkout is important</h2>
+                <h1>Why secure checkout is important</h1>
                 <p>Secure checkout is crucial for customers and businesses alike. Customers gain peace of mind knowing their data is safe, avoiding risks like identity theft. For businesses, it builds trust, enhances reputation, and mitigates financial and legal risks.</p>
                 <ul className={styles.list}>
                     <li>
@@ -54,7 +54,7 @@ function Example() {
                     </li>
                 </ul>
 
-                <h3>Types of transactions security</h3>
+                <h1>Types of transactions security</h1>
 
                 <ul className={styles.list}>
                     <li>
@@ -80,7 +80,7 @@ function Example() {
                 <p>Each method plays a crucial role in safeguarding transactions and customer data, ensuring a secure and trustworthy online environment.</p>
                 
 
-                <h4>References:</h4>
+                <h1>References</h1>
                 <a href="https://stripe.com/en-ro/resources/more/payment-security">
                     Payment security: An in-depth, actionable guide
                 </a>
