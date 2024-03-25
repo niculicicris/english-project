@@ -29,8 +29,9 @@ function Summary() {
                     the printing and typesetting industry.
                 </SummaryCard>
                 <SummaryCard image="/icon/government_regulations.png" title="Government Regulations">
-                    Lorem Ipsum is simply dummy text of 
-                    the printing and typesetting industry.
+                    As cyberattacks rapidly grow and evolve, it becomes imperative for governments to
+                    intervene decisively by establishing fresh, robust standards and regulations to 
+                    guarantee a secure foundation for digital systems in an increasingly interconnected world
                 </SummaryCard>
             </div>
         </section>
